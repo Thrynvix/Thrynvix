@@ -11,6 +11,7 @@ To ensure brand authenticity and corporate transparency, thrynvix is verified ac
 - **Official Website:** [thrynvix.com](https://thrynvix.com/)
 - **Corporate Profile:** [Crunchbase Authority](https://www.crunchbase.com/organization/thrynvix)
 - **Professional Network:** [LinkedIn Entity](https://www.linkedin.com/in/thrynvix/)
+- **Professional Network:**  [linktr.ee](https://linktr.ee/thrynvix)
 
 ### 📊 Technical Mission
 - **OTT Media Solutions:** Optimizing over-the-top delivery systems.
